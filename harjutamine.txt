@@ -1,1 +1,3 @@
 GitHub on koodihostinguplatvorm versioonihalduseks ja koostööks. See võimaldab inimestel projektidega koos töötada ükskõik kust. Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted üle kogu maailma.
+Ma saan GitHubi kasutada koolis kui meil on vaja teha mingine projekt mitme inimesega.
+GitHub.com platvormi arendamine algas 19. oktoobril 2007. aastal. Sait käivitati 2008. aasta aprillis Tom Preston-Werneri, Chris Wanstrathi, P. J. Hyetti ja Scott Chaconi poolt pärast seda, kui see oli juba paar kuud varem beetaversioonina saadaval.
